@@ -1,2 +1,14 @@
 # This file is machine-generated - editing it directly is not advised
 
+[[HMRowUnification]]
+deps = ["MLStyle"]
+git-tree-sha1 = "eef28421f6b030f11f0c08a0adc1326b1b78f782"
+repo-rev = "master"
+repo-url = "https://github.com/thautwarm/HMRowUnification.jl"
+uuid = "1f764b34-43ae-408e-9bb4-377386bc1704"
+version = "0.1.0"
+
+[[MLStyle]]
+git-tree-sha1 = "96025d43382425ee3d486e3d9ec4abc2b5eb4485"
+uuid = "d8e11817-5142-5d16-987a-aa16d5891078"
+version = "0.4.5"
